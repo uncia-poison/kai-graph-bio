@@ -1,5 +1,7 @@
 KAiScriptor & ScriptorMemory Hybrid Graph
 =========================================
+Pochinova Alina.
+https://zenodo.org/records/16925730
 
 This repository demonstrates a lightweight implementation of two
 experimental concepts — **KAiScriptor** and **ScriptorMemory** — and
